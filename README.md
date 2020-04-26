@@ -1,4 +1,4 @@
-lyTree 树组件（有问题先看文档，导入工程示例看） 看官网 https://ext.dcloud.net.cn/plugin?id=1000
+对lyTree 树组件进行改造加上自己需求  （有问题先看文档，导入工程示例看） 看官网 https://ext.dcloud.net.cn/plugin?id=1000
 ·改编自element-UI，去掉了拖拽和动画，其他功能基本全部保留了，并且新增了单选功能，代码改动非常大；
 
 ·element-UI的树组件仅支持H5端，APP端无法给组件挂载深度嵌套的数据对象，所以做了处理，使用组件时必须配置nodeKey；
